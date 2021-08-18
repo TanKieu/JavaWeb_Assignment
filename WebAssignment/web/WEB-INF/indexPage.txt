@@ -1,0 +1,17 @@
+login=LoginServlet
+searchLastName=SearchLastNameServlet
+deleteUser=DeleteUserServlet
+UpdateUser=UpdateUserServlet
+LogOut=LogOutServlet
+StartUp=StartupServlet
+getBook=GetBookServlet
+cart=AddBooktoCartServlet
+removeBook=RemoveBookServlet
+checkout=CheckOutServlet
+createNewAccount=CreateNewAccountServlet
+createPage=createNewAccount.jsp
+view=viewCart.jsp
+shoppingPage=shopping.jsp
+loginPage=login.html
+searchPage=search.jsp
+invalid=invalid.html
